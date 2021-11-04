@@ -90,7 +90,7 @@ Angular is cross-platform, fast, scalable, has incredible tooling, and is loved 
 ## Ecosystem
 
 <p>
-  <img src="src/assets/angular.png" alt="angular ecosystem logos" width="500px" height="auto">
+  <img src="src/assets/eco.png" alt="angular ecosystem logos" width="500px" height="auto">
 </p>
 
 - [Angular Command Line (CLI)][cli]
